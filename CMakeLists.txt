@@ -16,8 +16,6 @@ include_directories("${CMAKE_CURRENT_LIST_DIR}/FreeRTOS-Kernel/portable/ThirdPar
 include_directories("${CMAKE_CURRENT_LIST_DIR}/FreeRTOS-Kernel/portable/ThirdParty/GCC/Posix/utils")
 include_directories("${CMAKE_CURRENT_LIST_DIR}/FreeRTOS-Kernel/include")
 
-add_compile_definitions(_POSIX_C_SOURCE=200809L)
-add_compile_options(-include unistd.h)
 ###
 # F' Core Setup
 # This includes all of the F prime core components, and imports the make-system.
