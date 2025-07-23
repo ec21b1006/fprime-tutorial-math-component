@@ -1,0 +1,3 @@
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Log/Log.fpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Time/Time.fpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/config/FpConfig.fpp

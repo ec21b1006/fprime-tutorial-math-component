@@ -1,0 +1,5 @@
+
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/MathResultPortAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/OpRequestPortAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/MathResultPortAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/MathResultPortAc.hpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/OpRequestPortAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/OpRequestPortAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Ports/MathPorts.fpp
+

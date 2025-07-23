@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/PassiveConsoleTextLogger/ConsoleTextLoggerImplCommon.cpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/PassiveConsoleTextLogger/PassiveConsoleTextLogger.fpp
+Fw/Logger

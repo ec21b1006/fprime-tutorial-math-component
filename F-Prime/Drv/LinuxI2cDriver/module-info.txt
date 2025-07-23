@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxI2cDriver/LinuxI2cDriver.cpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxI2cDriver/LinuxI2cDriver.fpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/Interfaces/I2cInterface.fppi
+

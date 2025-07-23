@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/ComStub/ComStub.cpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/ComStub/ComStubComponentAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/ComStub/ComStubComponentAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/ComStub/ComStubComponentAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/ComStub/ComStub.fpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/Interfaces/ComInterface.fppi
+

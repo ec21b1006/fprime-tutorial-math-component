@@ -1,0 +1,10 @@
+[submodule "fprime"]
+	path = fprime
+	url = https://github.com/nasa/fprime.git
+	branch = devel
+[submodule "fprime-freertos"]
+	path = fprime-freertos
+	url = https://github.com/fprime-community/fprime-freertos.git
+[submodule "FreeRTOS-Kernel"]
+	path = FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git

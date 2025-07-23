@@ -1,0 +1,5 @@
+
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/Sched/SchedPortAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/Sched/SchedPortAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/F-Prime/Svc/Sched/SchedPortAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/Sched/Sched.fpp
+Fw/Port

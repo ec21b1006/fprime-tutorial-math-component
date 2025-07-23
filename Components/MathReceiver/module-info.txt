@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Components/MathReceiver/MathReceiver.cpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Components/MathReceiver/MathReceiverComponentAi.xml;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Components/MathReceiver/MathReceiverComponentAc.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Components/MathReceiver/MathReceiverComponentAc.hpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/Components/MathReceiver/MathReceiver.fpp
+

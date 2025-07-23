@@ -1,0 +1,3 @@
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/Interfaces/SpiInterface.fppi
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxSpiDriver/Telemetry.fppi

@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Comp/QueuedComponentBase.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Comp/ActiveComponentBase.cpp
+
+
+Fw/Cfg;Fw/Types;Fw/Obj;Fw/Port;Os;Fw/Comp

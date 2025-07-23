@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/FramingProtocol/DeframingProtocol.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/FramingProtocol/FramingProtocol.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Svc/FramingProtocol/FprimeProtocol.cpp
+
+
+Fw/Buffer;Fw/Time;Utils/Hash;Utils/Types

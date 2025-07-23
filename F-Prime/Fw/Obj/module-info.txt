@@ -1,0 +1,5 @@
+
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Obj/ObjBase.cpp;/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Obj/SimpleObjRegistry.cpp
+
+
+Fw/Cfg;Fw/Types;Fw/Logger

@@ -1,0 +1,6 @@
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/Interfaces/ByteStreamDriverInterface.fppi
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Log/Log.fpp
+/home/manasthegod69/xdlinx/fsw_development/fprime-env/fprime-tutorial-math-component/fprime/Fw/Tlm/Tlm.fpp
